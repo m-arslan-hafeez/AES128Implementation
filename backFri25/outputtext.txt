@@ -1,0 +1,3 @@
+This approach is useful when the decrypted data is a null-terminated
+string, and you want to determine the actual length of the meaningful
+content within the decrypted data. this is a useless thing to be added

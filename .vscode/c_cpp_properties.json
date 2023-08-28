@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "configurationProvider": "ms-vscode-cpptools",
+            "cStandard": "c11",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "C:/cygwin64/bin/cpp.exe",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
